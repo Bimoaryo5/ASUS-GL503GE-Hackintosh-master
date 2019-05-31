@@ -106,7 +106,7 @@ Intel built-in Wi-Fi chipset, we again probably never see the day.
 ## Intel Bluetooth
 It never works if Wi-Fi doesn't work.
 
-![Screenshot](GL503GE-SS.png?raw=true)
+![Screenshot](GL503GE-SS?raw=true)
 
 
 
