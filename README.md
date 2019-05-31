@@ -109,12 +109,14 @@ Intel built-in Wi-Fi chipset, we again probably never see the day.
 
 
 Thank a lot :
+
 https://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093/
 https://www.tonymacx86.com/threads/guide-patching-laptop-dsdt-ssdts.152573/
 https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightfixup-kext.218222/
 
 
 Source
+
 https://github.com/alexandred/VoodooI2C
 https://github.com/acidanthera
 https://github.com/RehabMan
