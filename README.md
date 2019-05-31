@@ -103,8 +103,6 @@ Trackpad works okay but with minor stuttering.
 Discrete graphic, we probably never see the day. For now, use `SSDT-DDGPU.aml` (in `/EFI/Clover/ACPI/patched`) to power it off.
 ## Intel Wi-Fi AC 9560
 Intel built-in Wi-Fi chipset, we again probably never see the day.
-## Intel Bluetooth
-It never works if Wi-Fi doesn't work.
 
 ![Screenshot](GL503GE-SS.png?raw=true)
 
