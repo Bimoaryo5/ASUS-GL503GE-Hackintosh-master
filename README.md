@@ -34,9 +34,8 @@ Every external kext mentioned is assumed to be the latest.
 3. ACPIBatteryManager kext installed to `/Library/Extensions`
 ## ALC295 Realtek Audio
 Internal speaker and microphone work. For Headphone output, volume balance has to be either left or right to make the sound normal.
-1. `/System/Library/Extensions/AppleGFXHDA.kext` **must be removed** (ID matched but not actually compatible)
-2. AppleALC kext installed to `/Library/Extensions`
-3. Clover Audio injection `Inject=3` (`ResetHDA` may be enabled)
+1. AppleALC kext installed to `/Library/Extensions`
+2. Clover Audio injection `Inject=3`
 ## PS/2 Keyboard
 1. VoodooPS2Controller kext installed to `/Library/Extensions` and `/EFI/CLOVER/kexts/Other` (using keyboard in Recovery mode)
 2. Karabiner (to remap your keyboard)
