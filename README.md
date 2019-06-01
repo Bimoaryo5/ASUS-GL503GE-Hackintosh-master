@@ -1,4 +1,4 @@
-# ASUS-FX504GE-Hackintosh
+# ASUS-GL503GE-Hackintosh
 Discussion, necessary configurations and instructions to get [ASUS ROG GL503GE laptop](https://www.asus.com/id/ROG-Republic-Of-Gamers/ROG-Strix-GL503/) working with macOS Mojave 10.14.x. Mojave is strongly recommended. The following should also work with all ASUS GL503GE.
 
 # Notes
