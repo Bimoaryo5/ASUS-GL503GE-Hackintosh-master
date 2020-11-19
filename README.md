@@ -1,11 +1,11 @@
 # ASUS-GL503GE-Hackintosh
 Discussion, necessary configurations and instructions to get [ASUS ROG GL503GE laptop](https://www.asus.com/id/ROG-Republic-Of-Gamers/ROG-Strix-GL503/) working with macOS Mojave 10.14.x. Mojave is strongly recommended. The following should also work with all ASUS GL503GE.
 
-# Notes
 
-I will not update this clover version again i already use openCore and work flawlessly if you want use my metode pm me or email,
+#I will not update this clover version again i already use openCore and work flawlessly if you want use my metode pm me or email,
 i will update opencore metode in MACOS BIGSUR in my github !
 
+# Notes
 1. 128 GB NVMe SSD is used for installing macOS
 2. APFS partition format has to be used
 3. If you are upgrading from the previous version and your partition is HFS+, better boot the installer, unmount the partition and convert it to APFS
